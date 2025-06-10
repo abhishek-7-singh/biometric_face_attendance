@@ -263,7 +263,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### 🏫 **Institution**: Vellore Institute of Technology, Chennai
 
 [![Email](https://img.shields.io/badge/Email-abhi11.sbsm%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abhi11.sbsm@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Biometric%20Attendance%20System-black?style=for-the-badge&logo=github)](https://github.com/your-username/biometric-attendance-system)
+[![GitHub](https://img.shields.io/badge/GitHub-Biometric%20Attendance%20System-black?style=for-the-badge&logo=github)](https://github.com/abhishek-7-singh/biometric-attendance-system)
 
 </div>
 
