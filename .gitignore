@@ -1,0 +1,13 @@
+# Ignore the faces directory and its contents
+faces/
+
+# Ignore the embeddings file
+embeddings.json
+
+# (Optional) Ignore log files, Python cache, and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
